@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "machine_abstraite_header.h": "c",
+        "stdio.h": "c",
+        "sdl_ttf.h": "c",
+        "sdl_image.h": "c"
+    }
+}
